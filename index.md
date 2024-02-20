@@ -1,10 +1,10 @@
-**<center><font color = green size = 7>About</font></center>**
+**<center><font color = green size = 7 face = Garamond>About</font></center>**
 
 
 <font color = black size = 3> I am a graduate student of Political Theory at School of Government, Peking University. My primary research interests lie in political economy of development (especially in state-owned enterprise), comparative political institutions, and Chinese politics.</font>
 
 
-*<font color = black size = 3> I received my Bachelor Degree in Political Science from Peking University in 2023. </font>
+<font color = black size = 3> I received my Bachelor Degree in Political Science from Peking University in 2023. </font>
 
 
 **<center><font color = green size = 7>Papers</font></center>**
@@ -29,4 +29,4 @@
 <font color = black size = 3> School of Government, Peking University Beijing, China, 100871 </font>
 
 
-*<font color = black size = 3> Email: thenhowye[at]pku[dot]edu[dot]cn </font>
+<font color = black size = 3> Email: thenhowye[at]pku[dot]edu[dot]cn </font>
