@@ -14,6 +14,8 @@
 
 **<font color = green size = 5>Peer-Reviewed Papers</font>**  
 
+**<font color = black size = 3> 2024. "The Temporal and Spatial Logic of Sectoral-Territorial Embeddedness: Based on Historical Analysis of the Evolution of County-Level Electricity Power System in Zhejiang" </font>** <font size = 3>(“条块互嵌”的时间与空间逻辑：基于浙江省县级电力管理体制演变的历史分析) (with Xiao Ma) forthcoming</font>
+
 **<font color = black size = 3> 2023. "Birth of Preventative Stat Capabilities: Evidence from the East Coast of China" </font>** <font size = 3>(“风过留痕”：预防型国家能力的诞生——来自中国沿海区县的证据) (with Xiao Ma, Xingyu Zhou, Jiaqi Chen) reported on </font> *<font size = 3>The 5th Renmin University and Fudan University Chinese Political Science Knowledge System Forum</font>* <font size = 3> (第五届中国政治学知识体系论坛) </font> <font size = 3> and </font> *<font size = 3>The 16th CCPSIS Annual Meeting Future Scholar Academic Poster Exhibition</font>* <font size = 3>(第十六届政治学与国际关系共同体年会未来学者学术海报展)</font>
 
 **<font color = green size = 5>Working Papers</font>**  
