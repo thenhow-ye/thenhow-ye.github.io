@@ -1,7 +1,9 @@
 **<center><font color = green size = 6>About</font></center>**  
 
 
-<font color = black size = 3> I am a graduate student of Political Theory at School of Government, Peking University. My primary research interests lie in political economy of development (especially in state-owned enterprise), comparative political institutions, and Chinese politics.</font><br><font color = black size = 3> I received my Bachelor Degree in Political Science from Peking University in 2023. </font>
+<font color = black size = 3> I am a graduate student of Political Theory at School of Government, Peking University. My primary research interests lie in political economy of development (especially in state-owned enterprise), comparative political institutions, and Chinese politics.</font>
+
+<font color = black size = 3> I received my Bachelor Degree in Political Science from Peking University in 2023. </font>
 
 
 **<center><font color = green size = 6>Education</font></center>**  
