@@ -1,4 +1,4 @@
-About
+<center><font color = green size = 7>About</font></center>
 
 I am a graduate student of Political Theory at School of Government, Peking University. My primary research interests lie in political economy of development (especially in state-owned enterprise), comparative political institutions, and Chinese politics.
 
