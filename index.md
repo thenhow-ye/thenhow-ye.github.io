@@ -1,4 +1,4 @@
-**<center><font color = green size = 7 face = "Garamond">About</font></center>**
+**<center><font color = green size = 7>About</font></center>**
 
 
 <font color = black size = 3> I am a graduate student of Political Theory at School of Government, Peking University. My primary research interests lie in political economy of development (especially in state-owned enterprise), comparative political institutions, and Chinese politics.</font>
@@ -7,7 +7,7 @@
 <font color = black size = 3> I received my Bachelor Degree in Political Science from Peking University in 2023. </font>
 
 
-**<center><font color = green size = 7 face = "Garamond">Papers</font></center>**
+**<center><font color = green size = 7>Papers</font></center>**
 
 **<font color = green size = 5>Peer-Reviewed Papers</font>**
 
@@ -21,10 +21,10 @@
 **<font color = black size = 3> 2023. "How leadership Style Develops: Evidence from China's Prefecture-Level Government Work Report" </font>** <font size = 3> (“术业”与“专攻”：领导风格何以产生——来自中国地级市政府工作报告的证据)</font> *<font size = 3>Bachelor's Degree Thesis</font>*
 
 
-**<center><font color = green size = 7 face = "Garamond">Data</font></center>**
+**<center><font color = green size = 7>Data</font></center>**
 
 
-**<center><font color = green size = 7 face = "Garamond">Contact</font></center>**
+**<center><font color = green size = 7>Contact</font></center>**
 
 <font color = black size = 3> School of Government, Peking University Beijing, China, 100871 </font>
 
