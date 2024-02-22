@@ -26,7 +26,7 @@
 
 **<font color = black size = 3> 2024. "How the Service-Oriented Response Possible?: Evidence from Chinese Local Government's Reply to Information Disclosure Requests" </font>** <font size = 3> (政府回应何以“服务型”：来自中国地方政府对信息公开回应的证据) </font> *<font size = 3>Working Paper</font>*  
 
-**<font color = black size = 3> 2023. "How leadership Style Develops: Evidence from China's Prefecture-Level Government Work Report" </font>** <font size = 3> (“术业”与“专攻”：领导风格何以产生——来自中国地级市政府工作报告的证据)</font> *<font size = 3>Bachelor's Degree Thesis</font>*  
+**<font color = black size = 3> 2023. "How Leadership Style Develops: Evidence from China's Prefecture-Level Government Work Report" </font>** <font size = 3> (“术业”与“专攻”：领导风格何以产生——来自中国地级市政府工作报告的证据)</font> *<font size = 3>Bachelor's Degree Thesis</font>*  
 
 
 **<center><font color = green size = 6>Data</font></center>**  
