@@ -34,4 +34,4 @@
 
 **<center><font color = green size = 6>Contact</font></center>**  
 
-<font color = black size = 3> School of Government, Peking University Beijing, China, 100871 </font><br><font color = black size = 3> Email: thenhowye[at]pku[dot]edu[dot]cn</font>
+<font color = black size = 3> School of Government, Peking University Beijing, China, 100871 </font><br><font color = black size = 3> Email: thenhowye@pku.edu.cn</font>
