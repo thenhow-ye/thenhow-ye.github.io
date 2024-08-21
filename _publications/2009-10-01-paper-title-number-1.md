@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-06-01
 venue: "Bachelor's thesis"
-slidesurl: #'http://thenhow-ye.github.io/files/slides1.pdf'
+slidesurl: 'http://thenhow-ye.github.io/files/slides1.pdf'
 paperurl: 'http://thenhow-ye.github.io/files/paper1.pdf'
 citation: "Ye, Renhao. (2023). &quot;How Leadership Style Develops: Evidence from China's Prefecture-Level Government Work Report.&quot; <i>Peking University Bachelor's Thesis</i>."
 ---
