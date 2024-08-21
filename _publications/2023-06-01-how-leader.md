@@ -1,5 +1,5 @@
 ---
-title: "How Leadership Style Develops: Evidence from Prefecture-Level Government Work Report in China"
+title: "How Leadership Style Develops: Evidence from Prefecture-Level's Government Work Report in China"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-01-how-leader
