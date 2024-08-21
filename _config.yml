@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "China"
 title                    : "Renhao Ye"
 title_separator          : "-"
 name                     : &name "Renhao Ye"
@@ -78,7 +78,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   working:
-    title: 'Working Paper'   
+    title: 'Working Papers'   
   books:
     title: 'Books'
 
