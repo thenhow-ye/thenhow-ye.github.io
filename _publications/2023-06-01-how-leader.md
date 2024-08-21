@@ -3,7 +3,7 @@ title: "How Leadership Style Develops: Evidence from Prefecture-Level Government
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-01-how-leader
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper finds that the government work report is an important tool to realize “Leader Effect”. Since mayor’s education degree, major and professional title will profoundly affect his leadership style, these educational and professional background plays a role in affaceting further local development by influencing the formulation of goervnment work report.'
 date: 2023-06-01
 venue: 'Bachelor thesis'
 slidesurl: 'http://thenhow-ye.github.io/files/slides2.pdf'
