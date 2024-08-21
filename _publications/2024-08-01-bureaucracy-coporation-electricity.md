@@ -2,9 +2,9 @@
 title: "From Bureaucracy to Corporation Giants: A Historical Analysis on Evolution of Electric Power Sector in China"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-01-hydropower-state
+permalink: /publication/2024-08-01-bureaucracy-coporation-electricity
 excerpt: 'ABC'
-date: 2024-09-01
+date: 2024-08-01
 venue: 'Research Design'
 slidesurl: 'http://thenhow-ye.github.io/files/Ye-bureaucracy-corporation-electricity.pdf'
 paperurl: 'http://thenhow-ye.github.io/files/Ye-bureaucracy-corporation-electricity.pdf'
