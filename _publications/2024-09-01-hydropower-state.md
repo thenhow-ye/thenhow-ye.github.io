@@ -1,7 +1,7 @@
 ---
 title: "Hydraulic State: Hydropower Construction and State Capacity in Contemporary China"
 collection: publications
-category: working
+category: workingen
 permalink: /publication/2024-09-01-hydropower-state
 excerpt: 'ABC'
 date: 2024-09-01
