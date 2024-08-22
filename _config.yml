@@ -77,8 +77,10 @@ author:
 publication_category:
   conferences:
     title: 'Conference Papers'
-  working:
-    title: 'Working Papers'   
+  workingen:
+    title: 'Working Papers in English'   
+  workingch:
+    title: 'Working Papers in Chinese'
   books:
     title: 'Books'
 
