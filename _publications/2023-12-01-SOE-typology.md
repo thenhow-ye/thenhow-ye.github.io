@@ -8,7 +8,7 @@ date: 2023-12-01
 venue: 'Working Paper'
 slidesurl: 'http://thenhow-ye.github.io/files/Ye-bureaucracy-corporation-electricity.pdf'
 paperurl: 'http://thenhow-ye.github.io/files/Ye-bureaucracy-corporation-electricity.pdf'
-#citation: 'Ye, Renhao. (2023). &quot;Roles of State-Owned Enterprises in Development: A Typological Analysis from Comparative Political Economy.&quot; <i>Working Paper</i>.'
+citation: 'Ye, Renhao. (2023). &quot;Roles of State-Owned Enterprises in Development: A Typological Analysis from Comparative Political Economy.&quot; <i>Working Paper</i>.'
 ---
 
 **Abstract:** ABC
