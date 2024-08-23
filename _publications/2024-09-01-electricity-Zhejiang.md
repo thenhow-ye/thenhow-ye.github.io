@@ -8,7 +8,7 @@ date: 2024-09-01
 venue: 'Forthcoming'
 #slidesurl: 'http://thenhow-ye.github.io/files/slides2.pdf'
 #paperurl: 'http://thenhow-ye.github.io/files/paper2.pdf'
-citation: 'Ye, Renhao and Xiao Ma. (2024). &quot;The Temporal and Spatial Logic of Sectoral-Territorial Embeddedness: A Historical Analysis of the Evolution of County-Level Electricity Power System in Zhejiang ('Tiaokuaihuqian de Shijian yu Kongjian Luoji: Jiyu Zhejiangsheng Xianjidianliguanlitizhi Yanbianlishi de Fenxi').&quot; <i>Forthcoming</i>.'
+citation: 'Ye, Renhao and Xiao Ma. (2024). &quot;The Temporal and Spatial Logic of Sectoral-Territorial Embeddedness: A Historical Analysis of the Evolution of County-Level Electricity Power System in Zhejiang (Tiaokuaihuqian de Shijian yu Kongjian Luoji: Jiyu Zhejiangsheng Xianjidianliguanlitizhi Yanbianlishi de Fenxi).&quot; <i>Forthcoming</i>.'
 ---
 
 **Abstract:** ABC
