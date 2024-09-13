@@ -1,9 +1,8 @@
 ---
 title: "Teaching Assistant: Principles of Political Science"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course, Professor Xiao Ma"
 permalink: /teaching/TA-principles-of-political-science
-tutor: "Professor Xiao Ma"
 venue: "Peking University, School of Government"
 date: 2023-09-01
 location: "Beijing, China"
