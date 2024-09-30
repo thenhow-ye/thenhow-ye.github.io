@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For my CV, please click [here](http://thenhow-ye.github.io/files/slides2.pdf).
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
