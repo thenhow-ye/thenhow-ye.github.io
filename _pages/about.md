@@ -10,7 +10,7 @@ redirect_from:
 I am a Graduate Student of Political Science at Peking University. My primary research interests lie in political economy of development, state-owned enterprise, Chinese politics, and comparative political institutions.
 
 My research address the questions
-[topics](http://thenhow-ye.github.oi/publications)
+[topics](http://thenhow-ye.github.io/publications/)
 
 
 I received my Bachelor's Degree in Political Science and Double Bachelor's Degree in Economics from Peking University.
