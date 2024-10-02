@@ -7,7 +7,7 @@ excerpt: 'This paper develops the concept of man-made natural disaster risk, ref
 date: 2024-09-07
 venue: '2024 APSA Annual Meeting'
 slidesurl: 'http://academicpages.github.io/files/Ye-flood-detention-revised0831.pdf'
-citation: 'Ye, Renhao, Xinyang Gao, and Xinyao Wang. (2024). &quot;Man-Made Natural Disaster: Evidence from National Flood Detention Area in China.&quot; <i>2024 APSA Annual Meeting, Philadelphia</i>.'[https://doi.org/10.33774/apsa-2024-j5fm4-v2](https://doi.org/10.33774/apsa-2024-j5fm4-v2)
+citation: 'Ye, Renhao, Xinyang Gao, and Xinyao Wang. (2024). &quot;Man-Made Natural Disaster: Evidence from National Flood Detention Area in China.&quot; <i>2024 APSA Annual Meeting, Philadelphia</i>.'<https://doi.org/10.33774/apsa-2024-j5fm4-v2>
 ---
 
 **Abstract:** The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
