@@ -2,11 +2,11 @@
 title: "Man-Made Natural Disaster Risk: Evidence from National Flood Detention Area in China"
 collection: publications
 category: conferences
-permalink:doi.org/10.33774/apsa-2024-j5fm4-v2
+permalink:/publication/2024-09-07-flood-detention-area
 excerpt: 'This paper develops the concept of man-made natural disaster risk, referring to the increase of potential risk exposed to natural disasters as a result of protection from natural disasters, even if these measures rarely directly cause disasters. Our findings indicate that the flood zone policy significantly reduces economic activity and population levels in the affected regions. This pattern is robust after accounting for alternative explanations and historical evidence that exploits flood disaster shocks on local social development prior to the establishment of national-level flood detention areas.'
 date: 2024-09-07
 venue: '2024 APSA Annual Meeting'
-slidesurl: 'http://academicpages.github.io/files/Ye-flood-detention-revised0831.pdf'
+slidesurl: 'https://doi.org/10.33774/apsa-2024-j5fm4-v2'
 citation: 'Ye, Renhao, Xinyang Gao, and Xinyao Wang. (2024). &quot;Man-Made Natural Disaster: Evidence from National Flood Detention Area in China.&quot; <i>2024 APSA Annual Meeting, Philadelphia</i>.'
 ---
 
