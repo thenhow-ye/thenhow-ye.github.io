@@ -16,4 +16,4 @@ Beijing, China, 100871
 
 Email: thenhowye@pku.edu.cn  
 
-![image](https://github.com/thenhow-ye/thenhow-ye.github.io/blob/master/images/map.png)
+![image](https://thenhow-ye.github.io/images/map.png)
