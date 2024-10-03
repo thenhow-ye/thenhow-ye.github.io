@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Contact Me"
-permalink: /portfolio/
+permalink: /contact/
 author_profile: true
 ---
 
