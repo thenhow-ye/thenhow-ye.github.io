@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% include base_path %}
-
 School of Government  
 Peking University  
 Beijing, China, 100871  
