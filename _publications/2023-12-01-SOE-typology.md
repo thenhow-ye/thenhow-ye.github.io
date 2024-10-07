@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c7ebe033-bc6c-4c70-8dcf-f846f45cb24d)---
+---
 title: "Roles of State-Owned Enterprises in Development: A Typological Analysis from Comparative Political Economy (发展中的国有企业角色：一个比较政治经济的类型学分析)"
 collection: publications
 category: workingch
