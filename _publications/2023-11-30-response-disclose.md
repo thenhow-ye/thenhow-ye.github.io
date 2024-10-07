@@ -1,11 +1,11 @@
 ---
-title: "How the Service-Oriented Response Possible? Evidence from Chinese Local Governments Reply to Information Disclosure Requests (政府回应何以服务型——来自中国地方政府对信息公开回应的证据)"
+title: "How the Service-Oriented Response Possible? Evidence from Chinese Local Governments Reply to Information Disclosure Requests (政府回应何以服务型：来自中国地方政府对信息公开回应的证据)"
 collection: publications
 category: workingch
 permalink: /publication/2023-11-30-response-disclose
 excerpt: 'Focusing on government responses to information disclosure request, this paper conducts an experimental design and categorizes government responses from different prefectural governments to the same disclosure request into four types: service-oriented, procedural, referral, and non-response, and reveals that migrant population size significantly influences local government responsiveness.'
 date: 2023-11-30
-venue: 'Bachelor thesis'
+venue: 'Working Paper'
 slidesurl: 'http://thenhow-ye.github.io/files/Ye-how-service-oriented-response-possible.pdf'
 citation: 'Ye, Renhao. (2023). &quot;How the Service-Oriented Response Possible? Evidence from Chinese Local Government's Reply to Information Disclosure Requests (Zhengfuhuiying Heyi Fuwuxing: Laizi Zhonguodifangzhengfu dui Xinxigongkai Huiying de Zhengju).&quot; <i>Working Paper</i>.'
 ---
