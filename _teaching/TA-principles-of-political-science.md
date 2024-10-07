@@ -8,6 +8,6 @@ date: 2023-09-01
 location: "Beijing, China"
 ---
 
-"Principles of Political Science" is an introductory course designed to explore the fundamental questions of what politics is and how to understand political life. The course focuses on teaching key concepts, methods, and theories for analyzing political systems, while incorporating case studies and classroom discussions to develop students' comprehensive political analysis skills.
+"Principles of Political Science" is an introductory course designed to explore the fundamental questions of what politics is and how to understand political life. The course focuses on teaching key concepts, methods, and theories for analyzing political systems, while incorporating case studies and classroom discussions to develop students' fundmental analytical skills in political science.
 
-The responsibilities of the teaching assistant include managing course activities, collecting and organizing materials, facilitating classroom discussions, grading assignments, and providing regular academic support to students.
+The responsibilities of the teaching assistant include managing course activities, facilitating classroom discussions, collecting and grading assignments, and providing regular academic support to students.
