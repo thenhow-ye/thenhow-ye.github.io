@@ -1,5 +1,5 @@
 ---
-title: "How the Service-Oriented Response Possible? Evidence from Chinese Local Government\'s Reply to Information Disclosure Requests (政府回应何以服务型——来自中国地方政府对信息公开回应的证据)"
+title: "How the Service-Oriented Response Possible? Evidence from Chinese Local Government's Reply to Information Disclosure Requests (政府回应何以服务型——来自中国地方政府对信息公开回应的证据)"
 collection: publications
 category: workingch
 permalink: /publication/2023-11-30-response-disclose
