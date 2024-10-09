@@ -1,5 +1,5 @@
 ---
-title: "From Bureaucracy to Corporate Giants: A Historical Analysis on Evolution of Electric Power Sector in China"
+title: "From Bureaucracy to Corporate Giants: A Case Study of Electric Power Sector in China"
 collection: publications
 category: workingen
 permalink: /publication/2024-08-01-bureaucracy-coporation-electricity
