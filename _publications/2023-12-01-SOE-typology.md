@@ -15,16 +15,4 @@ citation: 'Ye, Renhao. (2023). &quot;Roles of State-Owned Enterprises in Develop
 
 **Key Words:** State-owned Enterprise; Comparative Political Economy; Policy Goal; Embeddedness
 
-|-----------------+------------+---------------------------------------+---------------------------------------|
-|                 |                                            Operational Goals                               |
-|-----------------+------------+---------------------------------------+---------------------------------------|
-|                 |            |         Resource Distribution         |             Economic Growth           |   
-|-----------------+------------+---------------------------------------+---------------------------------------|
-|                 |    high    |           Quasi-Governmental          |                Parternal              |
-|      Local      |            |           (public utilities)          |  (Soviet-style industrial enterpises) |
-|   Embeddedness  +------------+---------------------------------------+---------------------------------------|
-|                 |    low     |              Developmental            |               Commercial              |
-|                 |            |  (high-tech and military industries)  |    (large business conglomerates)     |
-|=================+============+=======================================+=======================================|
-|                  Source: made by author                                                                      |
-|-----------------+------------+---------------------------------------+---------------------------------------|
+![image](https://thenhow-ye.github.io/images/SOE-typology.png)
