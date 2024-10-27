@@ -6,8 +6,8 @@ permalink: /publication/2025-01-08-hydropower-state
 excerpt: 'This article aims to contribute the literature of state capacity with an analysis on contemporary Chinese hydropower station construction, employing an instrumental variable (IV) approach with a within-case study.'
 date: 2025-01-08
 venue: '2025 SPSA Annual Conference'
-slidesurl: 'http://thenhow-ye.github.io/files/slides2.pdf'
-paperurl: 'http://thenhow-ye.github.io/files/YE-how-leadership-style-develops.pdf'
+slidesurl: 'http://thenhow-ye.github.io/files/YE-hydropower-appendix.pdf'
+paperurl: 'http://thenhow-ye.github.io/files/slides.pdf'
 citation: 'Ye, Renhao. (2025). &quot;Hydraulic State: Hydropower Construction and State Capacity in Contemporary China.&quot; <i>2025 SPSA Annual Meeting, San Juan</i>.'
 ---
 
