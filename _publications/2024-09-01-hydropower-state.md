@@ -1,7 +1,7 @@
 ---
 title: "Hydraulic State: Hydropower Construction and State Capacity in Contemporary China"
 collection: publications
-category: workingen
+category: conferences
 permalink: /publication/2025-01-08-hydropower-state
 excerpt: 'This article aims to contribute the literature of state capacity with an analysis on contemporary Chinese hydropower station construction, employing an instrumental variable (IV) approach with a within-case study.'
 date: 2025-01-08
