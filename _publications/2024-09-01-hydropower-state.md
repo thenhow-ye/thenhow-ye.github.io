@@ -7,7 +7,6 @@ excerpt: 'This article aims to contribute the literature of state capacity with 
 date: 2025-01-08
 venue: '2025 SPSA Annual Conference'
 slidesurl: 'http://thenhow-ye.github.io/files/YE-hydropower-appendix.pdf'
-paperurl: 'http://thenhow-ye.github.io/files/slides.pdf'
 citation: 'Ye, Renhao. (2025). &quot;Hydraulic State: Hydropower Construction and State Capacity in Contemporary China.&quot; <i>2025 SPSA Annual Meeting, San Juan</i>.'
 ---
 
