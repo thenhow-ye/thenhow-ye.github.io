@@ -6,6 +6,7 @@ permalink: /publication/2023-12-01-SOE-typology
 excerpt: 'By categorizing roles of SOEs based on dimensions of “operational goals” (economic growth or resource distribution) and “level of local embeddedness” (high or low), this paper identifies four ideal types: paternal (e.g., Soviet-style industrial enterprises), quasi-governmental (e.g., public utilities), commercial (e.g., large business conglomerates), and developmental (e.g., high-tech and military industries).'
 date: 2023-12-01
 venue: 'Working Paper'
+#paperurl: 'http://thenhow-ye.github.io/files/slides2.pdf'
 slidesurl: 'http://thenhow-ye.github.io/files/slides2.pdf'
 ---
 
