@@ -3,7 +3,7 @@ title: "Hydraulic State: Hydropower Construction and State Capacity in Contempor
 collection: publications
 category: conferences
 permalink: /publication/2025-01-08-hydropower-state
-excerpt: 'This article aims to contribute the literature of state capacity with an analysis on contemporary Chinese hydropower station construction, employing an instrumental variable (IV) approach with a within-case study.'
+excerpt: 'This paper aims to contribute the literature of state capacity with an analysis on contemporary Chinese hydropower station construction, employing an instrumental variable (IV) approach with a within-case study.'
 date: 2025-01-08
 venue: '2025 SPSA Annual Conference'
 slidesurl: 'http://thenhow-ye.github.io/files/YE-hydropower-appendix.pdf'
