@@ -3,7 +3,7 @@ title: "Shaking Piety and Faith: The lmpact of Earthquakes on People's Expectati
 collection: publications
 category: workingen
 permalink: /publication/2024-09-01-earthquake-religion
-excerpt: 'ABC'
+excerpt: 'This study uses survey data collected before and after the 2008 Wenchuan Earthquake in China to conduct a natural experimental design.'
 date: 2024-09-01
 venue: 'Working Paper'
 #citation: 'Gao, Xinyang, and <b>Renhao Ye</b>. (2024). &quot;Shaking Piety and Faith: The lmpact of Earthquakes on People's Expectation in China.&quot; <i>Working Paper</i>.'
