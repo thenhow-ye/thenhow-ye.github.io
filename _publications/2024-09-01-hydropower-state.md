@@ -2,9 +2,9 @@
 title: "Hydraulic State: Hydropower Construction and State Capacity in Contemporary China"
 collection: publications
 category: conferences
-permalink: /publication/2025-01-08-hydropower-state
+permalink: /publication/2024-11-14-hydropower-state
 excerpt: 'This paper aims to contribute the literature of state capacity with an analysis on contemporary Chinese hydropower station construction, employing an instrumental variable (IV) approach with a within-case study.'
-date: 2025-01-08
+date: 2024-11-14
 venue: '2025 MPSA Annual Conference'
 slidesurl: 'http://thenhow-ye.github.io/files/YE-hydropower-appendix.pdf'
 citation: '<b>Ye, Renhao</b>. (2025). &quot;Hydraulic State: Hydropower Construction and State Capacity in Contemporary China.&quot; <i>2025 MPSA Annual Meeting, Chicago</i>.'
