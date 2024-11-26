@@ -149,7 +149,7 @@ social:
 # Analytics
 analytics:
   provider               :  "true" # true (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
+  google                 :  https://www.googletagmanager.com/gtag/js?id=G-YV3E4SP8M9
     tracking_id          :  G-YV3E4SP8M9
 
 
