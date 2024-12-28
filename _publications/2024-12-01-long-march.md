@@ -4,7 +4,7 @@ collection: publications
 category: workingen
 permalink: /publication/2025-01-01-long-march
 excerpt: 'This study explores the sources of legitimacy of revolutionary regimes in government-invested infrastructure construction.'
-date: 2024-09-01
+date: 2025-01-01
 venue: 'Working Paper'
 #citation: 'Ye, Renhao. (2025). &quot;The Long March for Electrification.&quot; <i>Working Paper</i>.'
 ---
